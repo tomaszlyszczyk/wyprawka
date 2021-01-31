@@ -17,3 +17,7 @@
 ## Formularze
 * https://www.qed42.com/blog/checklist-web-form-testing  
 * https://cxl.com/blog/form-design-best-practices/  
+
+## Nauka programowania
+* https://www.codecademy.com/catalog/language/python
+* https://www.jetbrains.com/academy/
