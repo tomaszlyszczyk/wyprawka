@@ -21,3 +21,9 @@
 ## Nauka programowania
 * https://www.codecademy.com/catalog/language/python
 * https://www.jetbrains.com/academy/
+
+## Selenium WebDriver
+* Zainstalować IntelliJ IDEA https://www.jetbrains.com/idea/
+* Zainstalować i zaktualizować Chroma i Firefoxa/Edga
+* Zainstalować dodatek do Chroma **SelectorsHub** https://chrome.google.com/webstore/detail/selectorshub/ndgimibanhlabgdgjcpbbndiehljcpfh + w opcjach rozszerzenia pozwolić na używanie w trybie incognito
+* Przeczytać https://www.browserstack.com/guide/selenium-webdriver-tutorial
